@@ -24,7 +24,7 @@
     "gatsby-plugin-mdx": "^1.2.5",
     "gatsby-plugin-postcss": "^2.3.0",
     "gatsby-plugin-typescript": "^2.4.0",
-    "gatsby-plugin-webfonts": "^1.1.2",
+    "gatsby-plugin-webfonts": "^2.1.1",
     "gatsby-source-filesystem": "^2.3.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
